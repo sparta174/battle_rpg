@@ -1,0 +1,6 @@
+# Ignoring these fuckers
+
+**iml
+**xml
+classes/__pycache__
+
